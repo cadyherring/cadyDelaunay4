@@ -1,6 +1,10 @@
 # cadyDelaunay4
 inProgress
 
+#made using openFrameworks of_v20210131_osx_release 
+find here: https://openframeworks.cc/download/
+under nightly builds
+
 Delaunay video
 In this assignment you'll have to study the code provided and do something interesting with the data extracted by the algorithm. The idea is to built something similar to what Memo did for the video below:
 http://www.memo.tv/portfolio/wombats-techno-fan/
